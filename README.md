@@ -1,3 +1,4 @@
+![logo](https://github.com/SwarnavoRay005/SwarnavoRay005/blob/main/GIthub%20banner.png.png)
 <h1 align="center">Hi 👋, I'm Swarnavo Ray</h1>
 <h3 align="center">I'm Swarnavo , a person who is passionate about learning and implementing new things and possibilities to achieve greater results than previously achieved.</h3>
 
