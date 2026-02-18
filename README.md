@@ -1,4 +1,4 @@
-# 💫 About Me:
+# HELLO, I'M SWARNAVO RAY
 👋 Hi, I'm Swarnavo Ray<br><br> 🚀 About Me<br><br>* 💻 Passionate about **Full-Stack Development (MERN Stack)**<br>* 🧠 Strong interest in **DBMS, Java, and Data Structures**<br>* 🎯 Currently preparing for technical roles and improving problem-solving skills<br><br><br><br>🛠️ Tech Stack<br><br>* **Languages:** Java, C++, JavaScript<br>* **Frontend:** React.js, HTML, CSS<br>* **Backend:** Node.js, Express.js<br>* **Database:** MongoDB, SQL<br>* **Tools & Concepts:** Git, REST APIs, OOPs, DBMS, Machine Learning Basics<br><br><br>📚 Currently Learning<br><br>* Advanced React architecture<br>* System design fundamentals<br>* Interview-focused DSA & CS concepts<br><br><br>🌱 Goals<br><br>* Build impactful software that improves accessibility<br>* Strengthen full-stack and AI engineering skills<br>* Contribute to open-source projects<br><br><br><br>⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect.*<br>
 
 
