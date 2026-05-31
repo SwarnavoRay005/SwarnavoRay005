@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 BCA student passionate about Software Development, AI/ML, and Full Stack Web Development.  <br>💻 Currently building projects using the MERN stack while exploring real-world applications of Artificial Intelligence.  <br>🧠 Interested in Backend Engineering, System Design, APIs, Authentication, and scalable web applications.  <br>🤖 Working on AI-powered projects including Braille conversion systems for accessibility and collaborative learning platforms.  <br>📚 Constantly learning Data Structures, DBMS, OOPs, Java, Docker, Git, and modern development workflows.  <br>⚡ Love turning ideas into practical projects and continuously improving my development skills.  
+🎓 Passionate about Software Development, AI/ML, and Full Stack Web Development.  <br>💻 Currently building projects using the MERN stack while exploring real-world applications of Artificial Intelligence.  <br>🧠 Interested in Backend Engineering, System Design, APIs, Authentication, and scalable web applications.  <br>🤖 Working on AI-powered projects including Braille conversion systems for accessibility and collaborative learning platforms.  <br>📚 Constantly learning Data Structures, DBMS, OOPs, Java, Docker, Git, and modern development workflows.  <br>⚡ Love turning ideas into practical projects and continuously improving my development skills.  
 
 
 # 💻 Tech Stack:
