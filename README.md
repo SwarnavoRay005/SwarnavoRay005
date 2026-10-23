@@ -4,7 +4,7 @@
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- I'm an Associate Analyst – QA Automation Tester at Deloitte with a background in Full-Stack Web Development. Passionate about software quality, test automation, and building scalable applications using modern technologies.
+I'm an Associate Analyst – QA Automation Tester at Deloitte with a background in Full-Stack Web Development. Passionate about software quality, test automation, and building scalable applications using modern technologies.
 
 
 ## 🧠 My Focus Areas
