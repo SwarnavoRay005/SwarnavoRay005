@@ -18,9 +18,6 @@ I'm an Associate Analyst at Deloitte with a background in Full-Stack Web Develop
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://github.com/SwarnavoRay005">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SwarnavoRay005&cache_seconds=7200&layout=compact&theme=merko&border_radius=10" alt="SwarnavoRay005's GitHub Stats" />
-  </a>
   <img src="https://streak-stats.demolab.com/?user=SwarnavoRay005&theme=merko&hide_border=true&cache_seconds=86400" alt="SwarnavoRay005's GitHub Streak" width="49%" />
 </p>
 <p align="center">
