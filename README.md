@@ -23,9 +23,6 @@ I'm an Associate Analyst at Deloitte with a background in Full-Stack Web Develop
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=SwarnavoRay005&theme=merko&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Swarnavo Ray's GitHub Trophies" />
 </p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=SwarnavoRay005&theme=merko&radius=10" alt="SwarnavoRay005's Activity Graph" />
-</p>
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
